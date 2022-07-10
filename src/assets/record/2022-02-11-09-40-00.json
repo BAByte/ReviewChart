@@ -1,0 +1,244 @@
+{
+    "000001.XSHG-上证指数": [
+        {
+            "name": "上证指数", 
+            "operationType": "buy1", 
+            "price": 3616.61, 
+            "security": "000001.XSHG", 
+            "time": "2021-12-06 09:45:00"
+        }, 
+        {
+            "name": "上证指数", 
+            "operationType": "buy1", 
+            "price": 3644.22, 
+            "security": "000001.XSHG", 
+            "time": "2021-12-09 09:45:00"
+        }, 
+        {
+            "name": "上证指数", 
+            "operationType": "buy2", 
+            "price": 3628.09, 
+            "security": "000001.XSHG", 
+            "time": "2021-12-31 09:35:00"
+        }, 
+        {
+            "name": "上证指数", 
+            "operationType": "buy2", 
+            "price": 3494.03, 
+            "security": "000001.XSHG", 
+            "time": "2022-02-11 09:40:00"
+        }, 
+        {
+            "name": "上证指数", 
+            "operationType": "buy2", 
+            "price": 3497.27, 
+            "security": "000001.XSHG", 
+            "time": "2022-03-03 09:35:00"
+        }, 
+        {
+            "name": "上证指数", 
+            "operationType": "buy1", 
+            "price": 3091.69, 
+            "security": "000001.XSHG", 
+            "time": "2022-05-17 14:58:00"
+        }, 
+        {
+            "name": "上证指数", 
+            "operationType": "buy2", 
+            "price": 3247.42, 
+            "security": "000001.XSHG", 
+            "time": "2022-06-08 09:35:00"
+        }, 
+        {
+            "name": "上证指数", 
+            "operationType": "buy2", 
+            "price": 3380.41, 
+            "security": "000001.XSHG", 
+            "time": "2022-06-28 13:05:00"
+        }
+    ], 
+    "002841.XSHE-视源股份": [
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 70.88, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-06 09:35:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 72.65, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-06 10:50:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 73.34, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-08 10:20:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy1", 
+            "price": 76.7, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-09 09:45:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy1", 
+            "price": 79.78, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-28 09:45:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 78.31, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-29 13:50:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 78.73, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-30 13:05:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy1", 
+            "price": 80.82, 
+            "security": "002841.XSHE", 
+            "time": "2021-12-31 13:30:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 77.79, 
+            "security": "002841.XSHE", 
+            "time": "2022-01-18 13:50:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 76.6, 
+            "security": "002841.XSHE", 
+            "time": "2022-01-28 13:20:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 76.78, 
+            "security": "002841.XSHE", 
+            "time": "2022-02-09 14:30:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 76.81, 
+            "security": "002841.XSHE", 
+            "time": "2022-02-10 13:10:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 76.64, 
+            "security": "002841.XSHE", 
+            "time": "2022-02-14 10:35:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 82.03, 
+            "security": "002841.XSHE", 
+            "time": "2022-02-16 09:35:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy1", 
+            "price": 89.15, 
+            "security": "002841.XSHE", 
+            "time": "2022-02-21 13:15:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 70.43, 
+            "security": "002841.XSHE", 
+            "time": "2022-03-22 11:10:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 64.1, 
+            "security": "002841.XSHE", 
+            "time": "2022-03-31 13:40:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 64.2, 
+            "security": "002841.XSHE", 
+            "time": "2022-04-01 10:20:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 65.64, 
+            "security": "002841.XSHE", 
+            "time": "2022-04-01 13:15:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 66.5, 
+            "security": "002841.XSHE", 
+            "time": "2022-04-11 11:15:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 69.64, 
+            "security": "002841.XSHE", 
+            "time": "2022-04-12 13:25:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 68.54, 
+            "security": "002841.XSHE", 
+            "time": "2022-04-22 11:20:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 74.32, 
+            "security": "002841.XSHE", 
+            "time": "2022-05-06 10:35:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 70.75, 
+            "security": "002841.XSHE", 
+            "time": "2022-05-31 11:10:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy1", 
+            "price": 75.32, 
+            "security": "002841.XSHE", 
+            "time": "2022-06-07 09:45:00"
+        }, 
+        {
+            "name": "视源股份", 
+            "operationType": "buy2", 
+            "price": 77.24, 
+            "security": "002841.XSHE", 
+            "time": "2022-06-21 14:40:00"
+        }
+    ]
+}
